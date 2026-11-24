@@ -1,4 +1,4 @@
-package assessments;
+package org.example.Assessment;
 
 import java.util.ArrayList;
 import java.util.Collections;
